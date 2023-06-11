@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.index1 {
+    background-color: darkcyan;
+    color: white;
+}
+.h1index {
+    text-align: center;
+    margin-top: 40vh;
+    font-size: 75px;
+}
+.entrar {
+    text-align: center;
+    font-size: 30px;
+}
+header {
+    background-color: bisque;
+    height: 10vh;
+    width: 100%;
+}
+a {
+    margin-top: 5vh;
+    margin-left: 5px;
+    margin-right: 15px;
+    float: left;
+    font-family: Verdana;
+}
+strong {
+    margin-top: 5vh;
+    margin-left: 5px;
+    margin-right: 15px;
+    float: left;
+    font-family: Verdana;
+}
+a:hover {
+    background-color: beige;
+    color: brown;
+}
+body {
+    background-color: brown;    
+}
+main {
+    width: 100%;
+    height: 90vh;
+}
+.Bruno {
+margin-left: 550px;
+color: darkred;
+font-size: 40px;
+font-style: bold;
+}
+/*.main #index2 h1 {
+    font-size: 110px;
+    color: blue;
+    background-color: chartreuse;
+}*/
+.h1ndex2 {
+    font-size: 70px;
+    margin-left: 150px;
+}
+#Bruno {
+    margin-top: 250px;    
+}
+#Barone {
+    margin-left: 200px;
+}
+.h3dex2 {
+    font-size: 40px;
+    margin-left: 100px;
+}
+.mainesquerda {
+    width: 40%;
+    float: left;
+}
+.maindireita {
+    width: 60%;
+    text-align: right;
+    float: left;
+    height: 90vh;
+    background-image: url(fotoindex.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.quem {
+    font-size: 50px;
+    margin-left: 150px;
+    margin-top: 250px;
+}
+.sobree {
+    font-size: 25px;
+    margin-left: 50px;
+    width: 90%;
+}
+.sobresqurda {
+    width: 60%;
+    float: left;
+}
+.sobredireita {
+    width: 35%;
+    text-align: right;
+    float: left;
+    height: 80vh;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-image: url(fotosobre.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.divpasta {
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+.divmute {
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 5%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+}
+.imgpasta {
+   height: 350px; 
+}
+.imgmute {
+    height: 350px;
+}
+.h1xp {
+    font-size: 30px;
+    margin-left: 5%;
+}
+.pmute {
+    font-size: 40px;
+    float: right;
+    margin-right: 30px;
+    font-weight: bold;
+}
+.ppasta {
+    font-size: 40px;
+    float: left;
+    font-weight: bold;
+}
+.h1contato {
+    margin-left: 20px;
+    font-size: 50px;
+}
+.h2contato {
+    margin-left: 100px;
+    font-size: 30px;
+}
